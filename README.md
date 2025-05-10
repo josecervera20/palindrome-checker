@@ -36,32 +36,51 @@ Para probar la aplicación localmente, sigue estos pasos:
 
 Aquí se muestra cómo interactuar con la aplicación en diferentes escenarios:
 
-- **Estado Inicial de la Interfaz:**
-  ![Estado inicial de la aplicación](assets/initial-state.png)
-  La apariencia de la aplicación al cargarla en el navegador.
+### Estado Inicial de la Interfaz
 
-- **Verificando un Palíndromo:**
-  ![Demostración de verificación - Palíndromo](assets/checking-is-palindrome.png)
-  Proceso de ingresar un texto que es palíndromo y ejecutar la verificación.
+![Estado inicial de la aplicación](assets/initial-state.png)
 
-  _Resultado esperado:_
-  ![Resultado - Es Palíndromo](assets/is-palindrome-result.png)
-  Mensaje mostrado cuando el texto ingresado es un palíndromo.
+La apariencia de la aplicación al cargarla en el navegador.
 
-- **Verificando un Texto NO Palíndromo:**
-  ![Demostración de verificación - NO Palíndromo](assets/checking-not-palindrome.png)
-  Proceso de ingresar un texto que no es palíndromo y ejecutar la verificación.
+---
 
-  _Resultado esperado:_
-  ![Resultado - NO Es Palíndromo](assets/not-palindrome-result.png)
-  Mensaje mostrado cuando el texto ingresado NO es un palíndromo.
+### Verificando un Palíndromo
 
-- **Manejo de Entrada Vacía:**
-  ![Demostración - Entrada Vacía](assets/empty-input-alert.png)
-  Acción de intentar verificar sin ingresar texto.
+![Demostración de verificación - Palíndromo](assets/checking-is-palindrome.png)
 
-  _Resultado esperado:_
-  Una alerta en el navegador con el texto "Please input a value".
+Proceso de ingresar un texto que es palíndromo y ejecutar la verificación.
+
+**Resultado esperado:**
+
+![Resultado - Es Palíndromo](assets/is-palindrome-result.png)
+
+Mensaje mostrado cuando el texto ingresado es un palíndromo.
+
+---
+
+### Verificando un Texto NO Palíndromo
+
+![Demostración de verificación - NO Palíndromo](assets/checking-not-palindrome.png)
+
+Proceso de ingresar un texto que no es palíndromo y ejecutar la verificación.
+
+**Resultado esperado:**
+
+![Resultado - NO Es Palíndromo](assets/not-palindrome-result.png)
+
+Mensaje mostrado cuando el texto ingresado NO es un palíndromo.
+
+---
+
+### Manejo de Entrada Vacía
+
+![Demostración - Entrada Vacía](assets/empty-input-alert.png)
+
+Acción de intentar verificar sin ingresar texto.
+
+**Resultado esperado:**
+
+Una alerta en el navegador con el texto "Please input a value".
 
 ## ✅ Estado del Proyecto
 
